@@ -1,3 +1,7 @@
+p {
+  font-family: 'Hepta Slab', serif;
+}
+
 .navbar {
   color: #8a6b08;
 }
@@ -34,5 +38,13 @@
 
 .meet-founders {
   border: 2px solid #0047d6;
-  background-color: #ff951c;
+}
+
+section .row img {
+  margin: 0 0 30px;
+  width: 100%;
+}
+
+.row {
+  margin: 40px;
 }
