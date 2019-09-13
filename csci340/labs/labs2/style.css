@@ -1,3 +1,5 @@
+
+
 .navigation-bar {
   font-family: 'Hepta Slab', serif;
 }
@@ -8,4 +10,16 @@
 
 .left-nav {
   margin-left: 30px;
+}
+
+.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url('https://static.wixstatic.com/media/3ce06d_d9ea2026cc1c40bc8ff44c6b3d7dcee0~mv2_d_1800_1906_s_2.jpg/v1/fill/w_1511,h_1600,al_c,q_90/file.jpg');
+  background-size: contain;
+  font-family: 'Hepta Slab', serif;
+}
+
+.jumbotron-font {
+  color: #ffffff;
 }
