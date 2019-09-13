@@ -43,6 +43,7 @@ p {
 section .row img {
   margin: 0 0 5px;
   width: 100%;
+  border: 2px solid #0047d6;
 }
 
 .col-sm-6 {
